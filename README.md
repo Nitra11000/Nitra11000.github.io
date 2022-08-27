@@ -1,6 +1,7 @@
 # jekyll-theme-leaf
-
-👇👇
+Hola mi nombre es Ander.
+Me gusta la pizza.
+Soy de Colombia. 
 
 [Preview Theme](https://supunkavinda.github.io/jekyll-theme-leaf/) 
 
